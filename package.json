@@ -1,0 +1,19 @@
+{
+  "name": "appnode",
+  "version": "1.0.0",
+  "description": "app pratica 0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhyrot/AplicacaoNodeAula.git"
+  },
+  "author": "Erick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhyrot/AplicacaoNodeAula/issues"
+  },
+  "homepage": "https://github.com/Zhyrot/AplicacaoNodeAula#readme"
+}
