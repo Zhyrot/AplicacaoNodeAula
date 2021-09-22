@@ -14,7 +14,7 @@ function divisao(num1,num2) {
     return num1/num2;
 }
 
-exports.multiplicacao = multi;
-exports.divisao = divi;
+exports.multiplicacao = multiplicacao;
+exports.divisao = divisao;
 exports.soma = soma;
 exports.subtracao = subtracao;
